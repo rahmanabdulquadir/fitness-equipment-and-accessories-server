@@ -13,7 +13,7 @@ app.use(cors());
 app.use("/api/v1", router);
 
 app.get("/", (req: Request, res: Response) => {
-  res.send("Hello World!");
+  res.send("Welcome to the server side of fitness-equipment-and-accessories");
 });
 
 export default app;
