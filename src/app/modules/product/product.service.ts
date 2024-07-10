@@ -1,8 +1,10 @@
+import buildQuery from "../../builder/queryBuilder"
 import { TProduct } from "./product.interface"
 import productModel from "./product.model"
 
-const getProductsFromDB = async () => {
-  const result = await productModel.find()
+const getProductsFromDB = async (query: Record<string, unknown>) => {
+  const searchAbleFields = ['name', 'category']
+  const result = await buildQuery(productModel.find(), query, searchAbleFields)
   return result
 }
 
