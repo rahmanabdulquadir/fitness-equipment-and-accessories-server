@@ -5,4 +5,6 @@ export type TProduct = {
   category: string
   stock: number
   image: string
+  quantity?: number
+  _id?: string
 }
