@@ -3,6 +3,7 @@
 
 ### Backend Live URL: https://fitness-equipment-and-accessories-server.vercel.app/
 ### Frontend Live URL: https://harmonious-fenglisu-b99a7d.netlify.app/
+### Frontend Github: https://github.com/rahmanabdulquadir/fitness-equipment-and-accessories-client
 
 ## Introduction
 
