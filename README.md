@@ -1,7 +1,7 @@
 <!-- # FitFlex Essentials (Fitness equipment and accessories system) 
 
-## Live URL
-https://fitness-equipment-and-accessories-server.vercel.app/
+### Backend Live URL: https://fitness-equipment-and-accessories-server.vercel.app/
+### Frontend Live URL: https://harmonious-fenglisu-b99a7d.netlify.app/
 
 ## Table of Contents
 
